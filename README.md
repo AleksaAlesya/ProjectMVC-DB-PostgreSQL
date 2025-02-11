@@ -26,7 +26,7 @@ password - postgres
 jdbc:postgresql://localhost:5432/projectmvc_db
 
 
-Функционал REST API c CRUD операциями:
+Функционал 1 конртроллер с CRUD операциями:
 Вывести список
 - - http://localhost:8080/people
 
